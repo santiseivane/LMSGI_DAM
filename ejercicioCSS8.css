@@ -1,0 +1,27 @@
+body{
+    background-color: gray;
+}
+#color1{
+    color: black;
+}
+
+#fila1{
+    background-color: brown;
+    color: white;
+}
+#fila2{
+    background-color: red;
+    color: white;
+}
+#fila3{
+    background-color: blue;
+    color: white;
+}
+#fila4{
+    background-color: green;
+    color: white;
+}
+#fila5{
+    background-color: indigo;
+    color: white;
+}
