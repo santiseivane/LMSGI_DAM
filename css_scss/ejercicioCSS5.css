@@ -1,0 +1,87 @@
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+
+#titulo {
+    color: #008484; 
+}
+
+#subtitulo {
+    color: #0000FF;
+}
+
+
+p strong {
+    color: #FF0000; 
+}
+
+.destacado {
+    color: #FF9900; 
+}
+
+
+a {
+    color: #FF0000; 
+}
+
+a em {
+    color: #0000FF;
+}
+
+p .especial {
+    color: #000000; 
+}
+
+
+table {
+    border-collapse: collapse;
+}
+
+table caption {
+    color: #0000FF;
+    text-align: left;
+}
+
+table, th, td {
+    border: 1px solid black;
+    padding: 5px;
+}
+
+thead .especial {
+    color: #FF9900; 
+}
+
+tbody .especial {
+    color: #FF9900; 
+}
+
+tbody td {
+    color: #008000; 
+}
+
+tbody em {
+    color: #008000; 
+}
+
+tbody tr:nth-child(2) th {
+    color: #FF0000; 
+}
+
+tfoot th {
+    color: #FF0000; 
+}
+
+
+#adicional p {
+    color: #808000; 
+}
+
+#adicional #especial {
+    color: #FF00FF; 
+}
+
+#adicional a {
+    color: #008000; 
+}
