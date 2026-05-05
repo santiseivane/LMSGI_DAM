@@ -1,0 +1,25 @@
+body{
+    background-color: aqua;
+}
+#texto1{
+    text-align: center;
+    color: red;
+}
+#color1{
+    color: blue;
+}
+#texto2{
+    background-color: gray;
+    text-align: center;
+}
+#texto3{
+    text-align: right;
+    color: blue;
+}
+#color2{
+    color: red;
+}
+#texto4{
+    text-align: center;
+    background-color: gray;
+}
