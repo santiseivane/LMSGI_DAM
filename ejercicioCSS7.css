@@ -1,0 +1,20 @@
+body{
+    font-family: Arial, sans-serif;
+    background-color: aqua;
+}
+#color1{
+    color: blue;
+}
+#color2{
+    color: yellow;
+}
+#color3{
+    color: red;
+    background-color: chartreuse;
+}
+#color4{
+    color: orange;
+}
+#color5{
+    background-color: rgba(0, 0, 0, 0.5);
+}
