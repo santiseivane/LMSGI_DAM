@@ -1,0 +1,12 @@
+body{
+    background-color: yellow;
+}
+#titulo{
+    color: red;
+    text-align: center;
+}
+#red{
+    color: red;
+    text-align: left;
+    text-decoration: underline;
+}
