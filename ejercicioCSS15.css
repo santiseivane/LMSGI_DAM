@@ -1,0 +1,51 @@
+#texto1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: darkblue;
+}
+#texto2{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 11px;
+    color: green;
+    font-weight: bold;
+}
+#texto3{
+    font-family: 'garamond', serif;
+    font-size: 14px;
+    color: aqua;
+    font-style: bold;
+}
+#texto4{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12px;
+    color: palevioletred;
+    font-style: italic;
+}
+#texto5{
+    font-family: 'Lucida Console', Monaco, monospace;
+    font-size: 14px;
+    color: fuchsia;
+    font-weight: bold;
+    font-style: italic;
+}
+#texto6{
+    font-family: 'Trebuchet MS', Helvetica, sans-serif;
+    font-size: 10px;
+    color: violet;
+    font-weight: bold;
+    font-style: italic;
+}
+#texto7{
+    font-family: 'Georgia', serif;
+    font-size: 12px;
+    color: gray;
+    font-weight: bold;
+    font-style: italic;
+}
+#texto8{
+    font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+    font-size: 14px;
+    color: brown;
+    font-weight: bold;
+    font-style: italic;
+}
