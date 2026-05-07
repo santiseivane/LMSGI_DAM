@@ -1,0 +1,16 @@
+.margen{
+    width: 400px;
+    padding-left: 50%;
+    padding-right: 50%;
+    padding-top: 50%;
+}
+.caja{
+    width: 100px;
+    height: 100px;
+    border: 2px solid orange;
+    text-align: center;
+    padding-top: 1%;
+    border: 5px solid orange;
+    border-left: 4px dashed #FFA500; 
+    border-right: 4px dashed #FFA500; 
+}
