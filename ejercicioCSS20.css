@@ -1,0 +1,22 @@
+.parrafo1{
+    text-align: center;
+    width: 400px;
+    padding-left: 20%;
+    padding-right: 20%;
+    background-color: cadetblue;
+}
+.subrrayado{
+    text-decoration: underline;
+}
+.parrafo2{
+    font-size: 24px;
+    font-weight: bold;
+    width: 200px;
+}
+.parrafo3{
+    width: 200px;
+    padding-right: 20%;
+}
+.center{
+    text-align: center;
+}
